@@ -2,14 +2,14 @@
 
 This project uses OpenCV and the MediaPipe library to detect and annotate hand landmarks in a live video stream. The code captures frames from the webcam, processes them using MediaPipe Hands to detect hand landmarks, and then visualizes the detected landmarks on the frames.
 
-## Dependencies🧮
+# Dependencies🧮
 
 To run this project, you need the following libraries:
 
 - [OpenCV](https://github.com/opencv/opencv): A popular Python library for image and video processing.
 - [MediaPipe](https://github.com/google/mediapipe): A library developed by Google for detecting and annotating various objects in images and videos.
 
-## How to Use🤔
+# How to Use🤔
 
 1. Install Dependencies:
    Before running the code, make sure to install the required libraries. You can use the following commands to install them:
